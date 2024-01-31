@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/TestData/Amazon_Login_TestData</source-url>
+   </source-info>
+   <taken-date>2024-01-31T22:05:36.559+05:30</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "akstiwari307@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "xKnn0XkR5yW/z3G0Pwu8rQ\u003d\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Akshit12@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "xKnn0XkR5yW/z3G0Pwu8rQ\u003d\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Aks307@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "xKnn0XkR5yW/z3G0Pwu8rQ\u003d\u003d",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
